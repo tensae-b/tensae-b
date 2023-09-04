@@ -34,9 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tensae7654/tensae7654/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **tensae7654/tensae7654** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
