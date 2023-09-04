@@ -33,9 +33,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tensae7654/tensae7654/output/snake.svg" alt="Snake animation" />
 
-###
 
 
 <!--
