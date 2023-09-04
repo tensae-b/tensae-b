@@ -1,7 +1,6 @@
 ### Hi there 👋
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
-</div>
+
+  <img align="left" height="321" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
 
 ###
 
@@ -31,6 +30,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/tensae7654/tensae7654/output/snake.svg" alt="Snake animation" />
 
 ###
 
