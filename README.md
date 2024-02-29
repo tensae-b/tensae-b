@@ -1,9 +1,4 @@
-### 
-Hi there 👋
 
-  <img align="left" height="321" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  />
-  </br>
-###
 # 💫 About Me:
 Hello! This is Tensae Berhanu. i am a senior at addis ababa science and technology university majoring in software engineering. i currently work on web development and machine learning  
 
