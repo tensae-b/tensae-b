@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hello! This is Tensae Berhanu. i am a senior at addis ababa science and technology university majoring in software engineering. i currently work on web development and machine learning  
+Hello! This is Tensae Berhanu. i currently work on web development and machine learning  
 
 
 ## 🌐 Socials:
