@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-Hello! This is Tensae Berhanu. i currently work on web development and machine learning  
+Hello! This is Tensae Berhanu، an AI Engineer specializing in generative AI, multimodal systems, and intelligent agent architectures. I build AI-powered applications and explore the intersection of machine learning, computer vision, and creative technology.
+
+My work spans generative video and image synthesis, AI agents, computer vision, and experimental AI research. I enjoy turning complex ideas into practical systems, exploring emerging technologies, and building tools that push the boundaries of what AI can create.
 
 
 ## 🌐 Socials:
